@@ -7,6 +7,9 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying TUP in UTNBA.
 
+  
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 
 
   ![JAVA](https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000)
@@ -29,6 +32,5 @@
   ![IntellJIDEA](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
   ![Netbeans](https://img.icons8.com/?size=100&id=16btInyZvrVp&format=png&color=000000)
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
