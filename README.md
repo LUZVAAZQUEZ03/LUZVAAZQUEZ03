@@ -10,20 +10,18 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
   ![JAVA](https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000)
   ![SpringBoot](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)
   ![PYTHON](https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MongoDB](https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000)
   ![MySQL](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+  ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+  ![GitHub](https://img.icons8.com/?size=100&id=12599&format=png&color=000000)
+
+  ![Visual Studio Code](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
   ![IntellJIDEA](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
   ![Netbeans](https://img.icons8.com/?size=100&id=16btInyZvrVp&format=png&color=000000)
 
